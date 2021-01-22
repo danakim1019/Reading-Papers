@@ -9,5 +9,8 @@
 ## C
 - CrowdAR Table - An AR Table for Interactive Crowd Simulation : [[paper]](https://ieeexplore.ieee.org/document/8942269) [[summary]](summaries/CrowdAR_Table.md) [[video]](https://www.youtube.com/watch?v=PfnFwzLhb0Q)
 
+## D
+- 3D 지도와 결합된 실시간 증강현실 건물 안내 시스템의 설계 및 구현(Design and Implementation of Real-time Augmented Reality Building Information System Combined with 3D Map) : [[paper]](http://journal.cg-korea.org/archive/view_article?pid=jkcgs-24-4-39) [[summary]](summaries/DIoRARBISCw3DM.md)
+
 ## L
 - 심층강화학습을 이용한 군중 시뮬레이션(Learning to Move in Crowd) : [[paper]](http://mrl.snu.ac.kr/publications/domestic_paper/KCGS_2018_crowd_rl.pdf) [[summary]](summaries/LtmiC.md)
